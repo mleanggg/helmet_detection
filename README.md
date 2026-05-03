@@ -42,4 +42,10 @@ https://www.kaggle.com/datasets/andrewmvd/helmet-detection
 - Outputs bounding boxes for:
   - helmet (green)
   - no_helmet (red)
+  - 
+## 📁 Google Drive (Model Weights)
 
+The trained model weights are stored in Google Drive due to GitHub file size limitations.
+
+### 🧠 Model Weights
+- 🔗 https://drive.google.com/drive/folders/1MKlCOxn3KonWuqMXCn602Z5Kr9AUcsPv
